@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taskist</string>
+    <string name="welcome_text">Welcome to Taskist</string>
+    <string name="welcome_msg">Make your day easier with Taskist \n Make your day easier with Taskist \n Make your day easier with Taskist</string>
+    <string name="todo">To Do</string>
+    <string name="note">Note</string>
+    <string name="list">Make List</string>
+    <string name="all_list">All Taks List</string>
+</resources>
